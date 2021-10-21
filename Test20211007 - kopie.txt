@@ -15,6 +15,3 @@ Geert Deloof
 "doc_id": "1ZgUcnA8TzO9BRkHa4ocIY3tlQ7GaIdJQ1AUJu-om1Qsrqs1uAsC482qC", 
 "email": "bruce@mcpher.com", 
 "resource_id": "script:1ZgUcnA8TzO9BRkHa4ocIY3tlQ7GaIdJQ1AUJu-om1Qsrqs1uAsC482qC"}
-
-
-Even veranderen om te testen
